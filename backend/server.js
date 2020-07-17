@@ -1,5 +1,4 @@
 import express from "express";
-import data from "./data";
 import keys from "../config/keys";
 import mongoose from "mongoose";
 import bodyParser from "body-parser";
